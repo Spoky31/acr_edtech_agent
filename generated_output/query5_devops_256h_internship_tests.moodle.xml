@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category><text>$course$/top/DevOps-инженер от Linux до CI/CD</text></category>
+  </question>
+</quiz>

@@ -1,0 +1,406 @@
+{
+  "program_kit": {
+    "program_title": "DevOps-инженер от Linux до CI/CD",
+    "template_type": "dpp_pk",
+    "is_internship": true,
+    "is_self_study_only": true,
+    "study_form": "internship",
+    "issued_document": "Удостоверение о повышении квалификации установленного образца",
+    "total_hours": 256.0,
+    "target_audience": "Лица со средним профессиональным или высшим образованием",
+    "entry_level": "basic",
+    "explanatory_note": "Стажировка проводится в ИТ-компаниях региона под руководством наставника.",
+    "relevance_text": "Востребованность инженеров DevOps обусловлена автоматизацией цикла поставки ПО.",
+    "goal_text": "Совершенствование профессиональных компетенций в области автоматизации развертывания и сопровождения ИТ-инфраструктуры.",
+    "tasks_list": [
+      "Освоить администрирование Linux и сетей",
+      "Внедрить CI/CD, IaC и мониторинг"
+    ],
+    "regulatory_documents": [
+      "Федеральный закон от 29.12.2012 № 273-ФЗ «Об образовании в Российской Федерации»",
+      "Приказ Минобрнауки России от 01.07.2013 № 499 «Об утверждении Порядка организации и осуществления образовательной деятельности по дополнительным профессиональным программам»",
+      "Приказ Минтруда России от 30.08.2021 № 606н «Об утверждении профессионального стандарта «Системный администратор информационно-коммуникационных систем»»"
+    ],
+    "learning_outcomes": [
+      {
+        "id": "LO_K1",
+        "category": "knowledge",
+        "description": "Знание архитектуры ОС Linux, сетевых протоколов и принципов контейнеризации",
+        "competency_code": null
+      },
+      {
+        "id": "LO_S1",
+        "category": "skill",
+        "description": "Умение настраивать конвейеры CI/CD, мониторинг и описывать инфраструктуру как код (IaC)",
+        "competency_code": null
+      },
+      {
+        "id": "LO_P1",
+        "category": "practical_experience",
+        "description": "Практический опыт автоматизации развертывания и сопровождения сервисов в условиях стажировки",
+        "competency_code": null
+      }
+    ],
+    "competencies": [
+      {
+        "id": "PC1",
+        "name": "Администрирование систем управления конфигурациями, контейнеризации и автоматизации развертывания",
+        "prof_standard_link": {
+          "standard_code": "06.026",
+          "standard_title": "Системный администратор информационно-коммуникационных систем",
+          "mintrud_order": "Приказ Минтруда России от 30.08.2021 № 606н",
+          "labor_function_code": "B/02.5",
+          "labor_function_title": "Администрирование систем управления конфигурациями, контейнеризации и автоматизации развертывания"
+        },
+        "learning_outcome_ids": [
+          "LO_K1",
+          "LO_S1",
+          "LO_P1"
+        ],
+        "topic_ids": [
+          "1.1",
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5"
+        ],
+        "assessment_ids": []
+      }
+    ],
+    "calendar_schedule": {
+      "total_weeks": 9,
+      "total_days": 64,
+      "max_hours_per_day": 4.0,
+      "sessions_count": null,
+      "hours_per_session": null,
+      "description": "64 учебных дня (около 2 месяцев), не более 4 часов самостоятельной работы в день."
+    },
+    "modules": [
+      {
+        "id": "1",
+        "title": "DevOps-инженер: от администрирования Linux до промышленного CI/CD",
+        "total_hours": 254.0,
+        "lecture_hours": 0.0,
+        "practice_hours": 0.0,
+        "lab_hours": 0.0,
+        "self_study_hours": 254.0,
+        "control_hours": 0.0,
+        "intermediate_attestation_form": "Собеседование с руководителем стажировки",
+        "topics": [
+          {
+            "id": "1.1",
+            "title": "Администрирование ОС Linux и сетевые сервисы",
+            "total_hours": 44.0,
+            "lecture_hours": 0.0,
+            "practice_hours": 0.0,
+            "lab_hours": 0.0,
+            "self_study_hours": 44.0,
+            "control_hours": 0.0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [],
+            "learning_outcome_ids": [
+              "LO_K1"
+            ]
+          },
+          {
+            "id": "1.2",
+            "title": "Контейнеризация приложений: Docker и оркестрация",
+            "total_hours": 50.0,
+            "lecture_hours": 0.0,
+            "practice_hours": 0.0,
+            "lab_hours": 0.0,
+            "self_study_hours": 50.0,
+            "control_hours": 0.0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [],
+            "learning_outcome_ids": [
+              "LO_K1",
+              "LO_S1"
+            ]
+          },
+          {
+            "id": "1.3",
+            "title": "Построение пайплайнов CI/CD (GitLab CI / GitVerse)",
+            "total_hours": 56.0,
+            "lecture_hours": 0.0,
+            "practice_hours": 0.0,
+            "lab_hours": 0.0,
+            "self_study_hours": 56.0,
+            "control_hours": 0.0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [],
+            "learning_outcome_ids": [
+              "LO_S1",
+              "LO_P1"
+            ]
+          },
+          {
+            "id": "1.4",
+            "title": "Управление инфраструктурой как кодом (Terraform, Ansible)",
+            "total_hours": 54.0,
+            "lecture_hours": 0.0,
+            "practice_hours": 0.0,
+            "lab_hours": 0.0,
+            "self_study_hours": 54.0,
+            "control_hours": 0.0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [],
+            "learning_outcome_ids": [
+              "LO_S1",
+              "LO_P1"
+            ]
+          },
+          {
+            "id": "1.5",
+            "title": "Мониторинг и логирование (Prometheus, Grafana, ELK)",
+            "total_hours": 50.0,
+            "lecture_hours": 0.0,
+            "practice_hours": 0.0,
+            "lab_hours": 0.0,
+            "self_study_hours": 50.0,
+            "control_hours": 0.0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [],
+            "learning_outcome_ids": [
+              "LO_S1",
+              "LO_P1"
+            ]
+          }
+        ]
+      }
+    ],
+    "final_attestation": {
+      "form": "Защита отчёта о стажировке (зачёт)",
+      "hours": 2.0,
+      "requirements_description": "Отчёт о выполненных инфраструктурных задачах в компании, репозиторий с конфигурациями IaC и CI/CD.",
+      "evaluation_criteria": [
+        "Полнота и работоспособность конфигураций (Docker, CI/CD, Terraform/Ansible, мониторинг) — до 40%",
+        "Обоснованность архитектурных решений и соблюдение практик безопасности — до 30%",
+        "Качество оформления отчёта о стажировке и ответы на вопросы комиссии — до 30%"
+      ],
+      "passing_threshold": "Зачтено (не менее 70% выполненных критериев)"
+    },
+    "declared_totals": {
+      "total": 256.0,
+      "lecture": 0.0,
+      "practice": 0.0,
+      "lab": 0.0,
+      "self_study": 254.0,
+      "control": 0.0,
+      "final_attestation": 2.0
+    },
+    "test_questions": [],
+    "seminar_tasks": [],
+    "interview_questions": [
+      {
+        "id": "IQ1",
+        "module_id": "1",
+        "topic_id": "1.1",
+        "question_text": "Контрольный вопрос собеседования по теме Администрирование ОС Linux и сетевые сервисы",
+        "expected_answer_points": [
+          "Архитектурное обоснование",
+          "Демонстрация конфигурационных файлов"
+        ],
+        "learning_outcome_ids": [
+          "LO_K1"
+        ]
+      },
+      {
+        "id": "IQ2",
+        "module_id": "1",
+        "topic_id": "1.2",
+        "question_text": "Контрольный вопрос собеседования по теме Контейнеризация приложений: Docker и оркестрация",
+        "expected_answer_points": [
+          "Архитектурное обоснование",
+          "Демонстрация конфигурационных файлов"
+        ],
+        "learning_outcome_ids": [
+          "LO_K1",
+          "LO_S1"
+        ]
+      },
+      {
+        "id": "IQ3",
+        "module_id": "1",
+        "topic_id": "1.3",
+        "question_text": "Контрольный вопрос собеседования по теме Построение пайплайнов CI/CD (GitLab CI / GitVerse)",
+        "expected_answer_points": [
+          "Архитектурное обоснование",
+          "Демонстрация конфигурационных файлов"
+        ],
+        "learning_outcome_ids": [
+          "LO_S1",
+          "LO_P1"
+        ]
+      },
+      {
+        "id": "IQ4",
+        "module_id": "1",
+        "topic_id": "1.4",
+        "question_text": "Контрольный вопрос собеседования по теме Управление инфраструктурой как кодом (Terraform, Ansible)",
+        "expected_answer_points": [
+          "Архитектурное обоснование",
+          "Демонстрация конфигурационных файлов"
+        ],
+        "learning_outcome_ids": [
+          "LO_S1",
+          "LO_P1"
+        ]
+      },
+      {
+        "id": "IQ5",
+        "module_id": "1",
+        "topic_id": "1.5",
+        "question_text": "Контрольный вопрос собеседования по теме Мониторинг и логирование (Prometheus, Grafana, ELK)",
+        "expected_answer_points": [
+          "Архитектурное обоснование",
+          "Демонстрация конфигурационных файлов"
+        ],
+        "learning_outcome_ids": [
+          "LO_S1",
+          "LO_P1"
+        ]
+      },
+      {
+        "id": "IQ6",
+        "module_id": "1",
+        "topic_id": "1.1",
+        "question_text": "Диагностика сетевой связности и прав доступа в Linux",
+        "expected_answer_points": [
+          "Использование ss/netstat, iptables/nftables, systemd"
+        ],
+        "learning_outcome_ids": [
+          "LO_K1"
+        ]
+      }
+    ],
+    "lecture_decks": [],
+    "literature": [
+      {
+        "category": "main",
+        "citation": "Моррис К. Инфраструктура как код. — СПб.: Питер, 2022.",
+        "url": null,
+        "year": 2022,
+        "is_verified": true,
+        "verification_tag": ""
+      },
+      {
+        "category": "internet",
+        "citation": "Официальная документация Docker. — URL: https://docs.docker.com/",
+        "url": "https://docs.docker.com/",
+        "year": null,
+        "is_verified": true,
+        "verification_tag": ""
+      }
+    ],
+    "software_and_tools": [
+      "Linux (Ubuntu / Astra Linux)",
+      "Docker",
+      "GitLab CI / GitVerse",
+      "Ansible",
+      "Prometheus & Grafana"
+    ],
+    "methodologist_notes": [
+      "Внимание методисту: В приложенном образце стажировки «Бизнес и системный анализ» (248 ч) обнаружена арифметическая ошибка в итоговой строке УП и УТП (в разделе указано 246 ч СРС и 0 ч ПР/ЛБ, а в строке «Итого» — 66 ч ПР, 6 ч ЛБ и 174 ч СРС). В данной программе стажировки «DevOps-инженер от Linux до CI/CD» (256 ч) ошибка образца НЕ перенесена: во всех строках, включая итоговую, ЛК = 0, ПР = 0, ЛБ = 0, СРС = 254 ч, ИА = 2 ч."
+    ],
+    "requisites": {
+      "order_number": "____-ОБР",
+      "order_date": "«___» __________ 2026 г.",
+      "approver_name": "",
+      "approver_signature": "",
+      "staff_table_Order_names": []
+    }
+  },
+  "validation_report": {
+    "is_valid": true,
+    "error_count": 0,
+    "warning_count": 7,
+    "hours_check_passed": true,
+    "coverage_check_passed": true,
+    "normative_check_passed": true,
+    "sources_and_tools_passed": true,
+    "issues": [
+      {
+        "code": "REF_TOTAL_ROW_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #1 (Итоговая строка)",
+        "message": "Обнаружена ошибка в референсном образце! По строкам модулей заявлено: Всего=248 ч. (ЛК=0, ПР=0, ЛБ=0, СРС=246, ИА=2), но в строке «Итого» указано: Всего=248 ч. (ЛК=0, ПР=66, ЛБ=6, СРС=174).",
+        "suggested_fix": "При генерации новой программы рассчитывать строку «Итого» строго как сумму строк разделов без копирования ошибки образца."
+      },
+      {
+        "code": "REF_ROW_HORIZONTAL_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #2, строка '1.11. Текущий контроль'",
+        "message": "В образце трудоёмкость строки (6.0 ч.) не сходится с суммой видов работ: ЛК(0.0) + ПР(0.0) + ЛБ(0.0) + СРС(0.0) = 0.0 ч.",
+        "suggested_fix": "Не переносить эту ошибку из образца; выровнять сумму по видам работ."
+      },
+      {
+        "code": "REF_TOTAL_ROW_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #2 (Итоговая строка)",
+        "message": "Обнаружена ошибка в референсном образце! По строкам модулей заявлено: Всего=248 ч. (ЛК=0, ПР=0, ЛБ=0, СРС=246, ИА=2), но в строке «Итого» указано: Всего=248 ч. (ЛК=0, ПР=66, ЛБ=6, СРС=174).",
+        "suggested_fix": "При генерации новой программы рассчитывать строку «Итого» строго как сумму строк разделов без копирования ошибки образца."
+      },
+      {
+        "code": "REF_UTP_TOPICS_VS_MODULE_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #2 (УТП: темы vs раздел)",
+        "message": "В образце УТП сумма тем (Всего=30, ЛК=0, ПР=9, ЛБ=0, СРС=15) противоречит строке раздела (Всего=246, ЛК=0, ПР=0, ЛБ=0, СРС=246).",
+        "suggested_fix": "Синхронизировать распределение часов между разделом и темами."
+      },
+      {
+        "code": "REF_RPD_TEXT_VS_COLUMN_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #3 (РПД), строка #1 'Тема 1.6.'",
+        "message": "В тексте ячейки РПД указано 9 ч., а в столбце «Всего (час.)» — 12 ч.",
+        "suggested_fix": "Генерировать текст РПД из единой модели часов темы."
+      },
+      {
+        "code": "REF_RPD_TEXT_VS_COLUMN_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #3 (РПД), строка #2 'Тема 1.7.'",
+        "message": "В тексте ячейки РПД указано 6 ч., а в столбце «Всего (час.)» — 9 ч.",
+        "suggested_fix": "Генерировать текст РПД из единой модели часов темы."
+      },
+      {
+        "code": "REF_RPD_TOTAL_SUM_MISMATCH",
+        "severity": "WARNING",
+        "category": "REFERENCE_SAMPLE_DEFECT",
+        "location": "Референс Таблица #3 (РПД Итого)",
+        "message": "В образце РПД фактическая сумма строк активностей составляет 21 ч., тогда как в строке «Итого» указано 248 ч.",
+        "suggested_fix": "Исключить дублирование строк текущего контроля и пересчитать сумму РПД."
+      }
+    ],
+    "coverage_summary": {
+      "total_learning_outcomes": 3,
+      "uncovered_by_topics": [],
+      "under_assessed_learning_outcomes": [],
+      "total_test_questions": 0,
+      "total_seminar_tasks": 0,
+      "total_interview_questions": 6,
+      "total_slide_decks": 0
+    },
+    "hours_summary": {
+      "total_hours": 256.0,
+      "calculated_total": 256.0,
+      "lecture_hours": 0.0,
+      "practice_hours": 0.0,
+      "lab_hours": 0.0,
+      "self_study_hours": 254.0,
+      "control_hours": 0.0,
+      "final_attestation_hours": 2.0,
+      "practice_share": 0.0
+    }
+  }
+}

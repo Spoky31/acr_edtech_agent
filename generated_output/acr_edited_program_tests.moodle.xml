@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category><text>$course$/top/Анализ данных на Python</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>Q1 (Тема 1.1 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 1 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q2 (Тема 1.2 | РО: LO_K2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 2 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q3 (Тема 2.1 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 3 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q4 (Тема 2.2 | РО: LO_S2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 4 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q5 (Тема 3.1 | РО: LO_P1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 5 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q6 (Тема 3.2 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 6 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q7 (Тема 4.1 | РО: LO_K2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 7 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q8 (Тема 4.2 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 8 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q9 (Тема 1.1 | РО: LO_S2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 9 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q10 (Тема 1.2 | РО: LO_P1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>[Продвинутый уровень · Кейс] Вопрос № 10 по анализу банковских данных в Python, pandas 2.2+, SQL и статистике</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Разбор повышенной сложности: В актуальном стеке pandas 2.2+ для объединения датафреймов применяется pd.concat() и merge().</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать pd.concat() / df.groupby() на обезличенной выборке</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Копировать вручную в Excel</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Использовать удаленный метод</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Не проверять пропуски</p>]]></text>
+    </answer>
+  </question>
+</quiz>

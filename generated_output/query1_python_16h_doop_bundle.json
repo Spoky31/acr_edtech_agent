@@ -1,0 +1,495 @@
+{
+  "program_kit": {
+    "program_title": "Первые шаги в Python",
+    "template_type": "doop",
+    "is_internship": false,
+    "is_self_study_only": false,
+    "study_form": "ochnaya",
+    "issued_document": "Сертификат об освоении программы",
+    "total_hours": 16.0,
+    "target_audience": "Школьники 8 и 9 классов без опыта программирования",
+    "entry_level": "zero",
+    "explanatory_note": "Дополнительная общеразвивающая программа технической направленности для школьников 8–9 классов.",
+    "relevance_text": "Программирование на Python развивает алгоритмическое мышление подростков.",
+    "goal_text": "Формирование базовых навыков алгоритмизации и создания простых программ на языке Python.",
+    "tasks_list": [
+      "Познакомить с базовым синтаксисом Python",
+      "Научить создавать простую игру или чат-бота"
+    ],
+    "regulatory_documents": [
+      "Федеральный закон от 29.12.2012 № 273-ФЗ «Об образовании в Российской Федерации»",
+      "Приказ Минпросвещения России от 27.07.2022 № 629 «Об утверждении Порядка организации и осуществления образовательной деятельности по дополнительным общеобразовательным программам»"
+    ],
+    "learning_outcomes": [
+      {
+        "id": "LO_K1",
+        "category": "knowledge",
+        "description": "Знание базовых понятий алгоритмизации, переменных и типов данных в Python",
+        "competency_code": null
+      },
+      {
+        "id": "LO_S1",
+        "category": "skill",
+        "description": "Умение применять условные операторы и циклы для решения простых задач",
+        "competency_code": null
+      },
+      {
+        "id": "LO_H1",
+        "category": "habit",
+        "description": "Навык создания и отладки простой консольной игры или чат-бота на Python",
+        "competency_code": null
+      }
+    ],
+    "competencies": [
+      {
+        "id": "C1",
+        "name": "Основы алгоритмизации и программирования на Python",
+        "prof_standard_link": null,
+        "learning_outcome_ids": [
+          "LO_K1",
+          "LO_S1",
+          "LO_H1"
+        ],
+        "topic_ids": [
+          "1.1",
+          "1.2",
+          "2.1"
+        ],
+        "assessment_ids": [
+          "test:Q1",
+          "task:T1",
+          "task:T2"
+        ]
+      }
+    ],
+    "calendar_schedule": {
+      "total_weeks": 4,
+      "total_days": 8,
+      "max_hours_per_day": 2.0,
+      "sessions_count": 8,
+      "hours_per_session": 2.0,
+      "description": "4 недели, 8 очных занятий по 2 часа (2 раза в неделю)."
+    },
+    "modules": [
+      {
+        "id": "1",
+        "title": "Основы синтаксиса Python",
+        "total_hours": 10.0,
+        "lecture_hours": 4.0,
+        "practice_hours": 6.0,
+        "lab_hours": 0.0,
+        "self_study_hours": 0.0,
+        "control_hours": 0.0,
+        "intermediate_attestation_form": "—",
+        "topics": [
+          {
+            "id": "1.1",
+            "title": "Знакомство с Python: переменные, ввод-вывод и типы данных",
+            "total_hours": 4.0,
+            "lecture_hours": 2.0,
+            "practice_hours": 2.0,
+            "lab_hours": 0,
+            "self_study_hours": 0,
+            "control_hours": 0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [
+              {
+                "activity_type": "ЛК",
+                "hours": 2.0,
+                "title_and_content": "Понятие алгоритма и переменной (простыми словами: «коробка с наклейкой для хранения данных»)."
+              },
+              {
+                "activity_type": "ПР",
+                "hours": 2.0,
+                "title_and_content": "Написание первой программы-анкеты с input() и print()."
+              }
+            ],
+            "learning_outcome_ids": [
+              "LO_K1"
+            ]
+          },
+          {
+            "id": "1.2",
+            "title": "Логика программы: условия if-else и циклы while/for",
+            "total_hours": 6.0,
+            "lecture_hours": 2.0,
+            "practice_hours": 4.0,
+            "lab_hours": 0,
+            "self_study_hours": 0,
+            "control_hours": 0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [
+              {
+                "activity_type": "ЛК",
+                "hours": 2.0,
+                "title_and_content": "Ветвления и повторения в программах."
+              },
+              {
+                "activity_type": "ПР",
+                "hours": 4.0,
+                "title_and_content": "Создание мини-викторины и игры «Угадай число»."
+              }
+            ],
+            "learning_outcome_ids": [
+              "LO_S1"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Проектная мастерская",
+        "total_hours": 4.0,
+        "lecture_hours": 1.0,
+        "practice_hours": 3.0,
+        "lab_hours": 0.0,
+        "self_study_hours": 0.0,
+        "control_hours": 0.0,
+        "intermediate_attestation_form": "—",
+        "topics": [
+          {
+            "id": "2.1",
+            "title": "Сборка собственного проекта: простая текстовая игра или чат-бот",
+            "total_hours": 4.0,
+            "lecture_hours": 1.0,
+            "practice_hours": 3.0,
+            "lab_hours": 0,
+            "self_study_hours": 0,
+            "control_hours": 0,
+            "control_form": "",
+            "content_summary": "",
+            "rpd_activities": [
+              {
+                "activity_type": "ЛК",
+                "hours": 1.0,
+                "title_and_content": "Как спроектировать сценарий игры или помощника."
+              },
+              {
+                "activity_type": "ПР",
+                "hours": 3.0,
+                "title_and_content": "Разработка и тестирование проекта школьника."
+              }
+            ],
+            "learning_outcome_ids": [
+              "LO_H1"
+            ]
+          }
+        ]
+      }
+    ],
+    "final_attestation": {
+      "form": "Защита индивидуального мини-проекта (игра или чат-бот)",
+      "hours": 2.0,
+      "requirements_description": "Ученик демонстрирует работающую программу и объясняет логику ее работы.",
+      "evaluation_criteria": [
+        "Программа запускается и выполняет основную задачу (играет или отвечает на сообщения)",
+        "Использованы переменные, условия и циклы",
+        "Ученик может своими словами объяснить, как работает его код"
+      ],
+      "passing_threshold": "Зачтено (не менее 70% выполненных критериев)"
+    },
+    "declared_totals": {
+      "total": 16.0,
+      "lecture": 5.0,
+      "practice": 9.0,
+      "lab": 0.0,
+      "self_study": 0.0,
+      "control": 0.0,
+      "final_attestation": 2.0
+    },
+    "test_questions": [
+      {
+        "id": "Q1",
+        "question_text": "Вопрос № 1 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_K1"
+        ],
+        "topic_id": "1.1"
+      },
+      {
+        "id": "Q2",
+        "question_text": "Вопрос № 2 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_S1"
+        ],
+        "topic_id": "1.2"
+      },
+      {
+        "id": "Q3",
+        "question_text": "Вопрос № 3 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_H1"
+        ],
+        "topic_id": "2.1"
+      },
+      {
+        "id": "Q4",
+        "question_text": "Вопрос № 4 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_K1"
+        ],
+        "topic_id": "1.1"
+      },
+      {
+        "id": "Q5",
+        "question_text": "Вопрос № 5 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_S1"
+        ],
+        "topic_id": "1.2"
+      },
+      {
+        "id": "Q6",
+        "question_text": "Вопрос № 6 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_H1"
+        ],
+        "topic_id": "2.1"
+      },
+      {
+        "id": "Q7",
+        "question_text": "Вопрос № 7 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_K1"
+        ],
+        "topic_id": "1.1"
+      },
+      {
+        "id": "Q8",
+        "question_text": "Вопрос № 8 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_S1"
+        ],
+        "topic_id": "1.2"
+      },
+      {
+        "id": "Q9",
+        "question_text": "Вопрос № 9 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_H1"
+        ],
+        "topic_id": "2.1"
+      },
+      {
+        "id": "Q10",
+        "question_text": "Вопрос № 10 по основам Python для 8–9 класса",
+        "options": [
+          "Вариант А",
+          "Вариант Б",
+          "Вариант В",
+          "Вариант Г"
+        ],
+        "correct_option_index": 0,
+        "explanation": "Пояснение к верному ответу",
+        "learning_outcome_ids": [
+          "LO_K1"
+        ],
+        "topic_id": "1.1"
+      }
+    ],
+    "seminar_tasks": [
+      {
+        "id": "T1",
+        "topic_id": "1.1",
+        "title": "Практикум: Диалоговая открытка",
+        "scenario_description": "Напишите программу, которая спрашивает имя друга и выводит персональное поздравление.",
+        "deliverable": "Файл greeting.py",
+        "evaluation_criteria": [
+          "Программа запускается без ошибок",
+          "Корректно используется функция input()"
+        ],
+        "learning_outcome_ids": [
+          "LO_K1"
+        ]
+      },
+      {
+        "id": "T2",
+        "topic_id": "1.2",
+        "title": "Практикум: Игра «Угадай число»",
+        "scenario_description": "Реализуйте игру с циклом и подсказками «больше/меньше».",
+        "deliverable": "Файл guess_game.py",
+        "evaluation_criteria": [
+          "Работает условие проверки",
+          "Цикл завершается при угадывании"
+        ],
+        "learning_outcome_ids": [
+          "LO_S1",
+          "LO_H1"
+        ]
+      }
+    ],
+    "interview_questions": [],
+    "lecture_decks": [
+      {
+        "topic_id": "1.1",
+        "topic_title": "Знакомство с Python: переменные, ввод-вывод и типы данных",
+        "duration_hours": 2.0,
+        "lecture_plan_points": [
+          "Что такое язык программирования",
+          "Переменные и типы данных"
+        ],
+        "slides": [
+          {
+            "slide_num": 1,
+            "title": "Первые шаги в Python",
+            "bullets": [
+              "Переменная как коробка для данных"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": "1.2",
+        "topic_title": "Логика программы: условия if-else и циклы while/for",
+        "duration_hours": 2.0,
+        "lecture_plan_points": [
+          "Условный оператор if-else",
+          "Циклы while и for"
+        ],
+        "slides": [
+          {
+            "slide_num": 1,
+            "title": "Условия и циклы",
+            "bullets": [
+              "Как научить программу принимать решения"
+            ]
+          }
+        ]
+      }
+    ],
+    "literature": [
+      {
+        "category": "main",
+        "citation": "Бриггс Дж. Python для детей. Самоучитель по программированию. — М.: МИФ, 2022.",
+        "url": null,
+        "year": 2022,
+        "is_verified": true,
+        "verification_tag": ""
+      },
+      {
+        "category": "internet",
+        "citation": "Официальная документация Python 3. — URL: https://docs.python.org/ru/3/",
+        "url": "https://docs.python.org/ru/3/",
+        "year": null,
+        "is_verified": true,
+        "verification_tag": ""
+      }
+    ],
+    "software_and_tools": [
+      "Python 3.12",
+      "VS Code / Thonny IDE"
+    ],
+    "methodologist_notes": [],
+    "requisites": {
+      "order_number": "____-ОБР",
+      "order_date": "«___» __________ 2026 г.",
+      "approver_name": "",
+      "approver_signature": "",
+      "staff_table_Order_names": []
+    }
+  },
+  "validation_report": {
+    "is_valid": true,
+    "error_count": 0,
+    "warning_count": 0,
+    "hours_check_passed": true,
+    "coverage_check_passed": true,
+    "normative_check_passed": true,
+    "sources_and_tools_passed": true,
+    "issues": [],
+    "coverage_summary": {
+      "total_learning_outcomes": 3,
+      "uncovered_by_topics": [],
+      "under_assessed_learning_outcomes": [],
+      "total_test_questions": 10,
+      "total_seminar_tasks": 2,
+      "total_interview_questions": 0,
+      "total_slide_decks": 2
+    },
+    "hours_summary": {
+      "total_hours": 16.0,
+      "calculated_total": 16.0,
+      "lecture_hours": 5.0,
+      "practice_hours": 9.0,
+      "lab_hours": 0.0,
+      "self_study_hours": 0.0,
+      "control_hours": 0.0,
+      "final_attestation_hours": 2.0,
+      "practice_share": 0.562
+    }
+  }
+}

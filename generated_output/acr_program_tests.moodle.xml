@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category><text>$course$/top/Искусственный интеллект в работе учителя</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>Q1 (Тема 1.1 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 1 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q2 (Тема 1.2 | РО: LO_K2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 2 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q3 (Тема 2.1 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 3 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q4 (Тема 2.2 | РО: LO_S2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 4 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q5 (Тема 1.1 | РО: LO_P1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 5 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q6 (Тема 1.2 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 6 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q7 (Тема 2.1 | РО: LO_K2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 7 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q8 (Тема 2.2 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 8 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q9 (Тема 1.1 | РО: LO_S2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 9 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q10 (Тема 1.2 | РО: LO_P1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Контрольный вопрос № 10 по применению российских нейросетей и защите данных учеников</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Педагог обязан соблюдать 152-ФЗ, не передавать ПДн учеников и верифицировать материалы.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Использовать обезличенные данные и проверять факты в российских сервисах (GigaChat, YandexGPT)</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Загружать полные списки ФИО класса в открытый чат</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Публиковать ответ нейросети без вычитки учителем</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Требовать от учеников знания языка Python</p>]]></text>
+    </answer>
+  </question>
+</quiz>

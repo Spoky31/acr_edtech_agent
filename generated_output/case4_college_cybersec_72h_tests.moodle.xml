@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category><text>$course$/top/Основы практической кибербезопасности и защиты автоматизированных систем</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>Q1 (Тема 1.1 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 1 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q2 (Тема 1.2 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 2 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q3 (Тема 2.1 | РО: LO_S2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 3 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q4 (Тема 2.2 | РО: LO_P1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 4 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q5 (Тема 1.1 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 5 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q6 (Тема 1.2 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 6 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q7 (Тема 2.1 | РО: LO_S2)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 7 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q8 (Тема 2.2 | РО: LO_P1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 8 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q9 (Тема 1.1 | РО: LO_K1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 9 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Q10 (Тема 1.2 | РО: LO_S1)</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Вопрос № 10 по базовому контролю защищенности и анализу инцидентов ИБ</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Стажер / младший специалист ИБ действует строго по регламенту фиксации и локализации инцидента.</p>]]></text></generalfeedback>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Локализовать узел, зафиксировать артефакты в журнале и настроить правило фильтрации</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Отключить логирование сервера</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Удалить системные журналы</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Игнорировать сетевую аномалию</p>]]></text>
+    </answer>
+  </question>
+</quiz>

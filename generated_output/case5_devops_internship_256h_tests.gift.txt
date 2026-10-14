@@ -1,0 +1,2 @@
+// Программа: DevOps-инженер от Linux до CI/CD
+// Категория: $CATEGORY: $course$/top/DevOps-инженер от Linux до CI/CD
